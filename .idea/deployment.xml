@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="PublishConfigData">
+  <component name="PublishConfigData" serverName="aws">
     <serverData>
       <paths name="aws">
         <serverdata>
           <mappings>
-            <mapping deploy="/projects/testrepo" local="$PROJECT_DIR$" web="/" />
+            <mapping deploy="/projects/testrepo/mysite" local="$PROJECT_DIR$/mysite" web="/" />
           </mappings>
         </serverdata>
       </paths>
